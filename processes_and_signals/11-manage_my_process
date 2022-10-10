@@ -1,4 +1,5 @@
-ss
+#!/usr/bin/env bash
+# my process
 
 command="$1"
 
@@ -26,3 +27,30 @@ elif [ "$command" == "restart" ]; then
 else
   echo "Usage: manage_my_process {start|stop|restart}" 
 fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
